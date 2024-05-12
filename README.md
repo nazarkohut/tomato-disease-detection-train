@@ -10,7 +10,7 @@ Repository containing code used for training object detection models for tomatoð
 - Roboflow_EfficientDet_v2.ipynb
 - Roboflow_Custom_Detectron2.ipynb
 
-** Results aggregation notebooks:**
+**Results aggregation notebooks:**
 - Metrics_for_different_models.ipynb
 
 ### YOLO
